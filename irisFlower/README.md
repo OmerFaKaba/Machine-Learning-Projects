@@ -73,5 +73,3 @@ Machine-Learning-Projects/
 - UCI Iris Dataset
 - scikit-learn Documentation
 
-## 📝 License
-This project is licensed under **⚠️ your license type** (e.g., MIT).
