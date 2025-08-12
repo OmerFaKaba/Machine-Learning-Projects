@@ -1,10 +1,9 @@
-# Iris Flower Classifier (scikit-learn)
+# Titanic Survival Classifier (scikit-learn)
 
 Basit ama öğretici bir makine öğrenmesi projesi: Iris veri seti üzerinde sınıflandırma. Kod: `classifer.py`  
-> Not: Dosya adında yazım hatası var gibi görünüyor: `classifer.py` → `classifier.py` olarak yeniden adlandırmayı düşünebilirsiniz.
 
 ## 🚀 Özellikler
-- Iris veri setini yükler
+- Titanic veri setini yükler
 - Eğitim/test ayrımı yapar
 - Bir sınıflandırma modeli ile eğitir (ör. Logistic Regression / Random Forest)
 - Doğruluk (accuracy) ve karışıklık matrisi (confusion matrix) raporlar
@@ -73,5 +72,3 @@ Machine-Learning-Projects/
 - UCI Iris Dataset
 - scikit-learn Kullanım Kılavuzu
 
-## 📝 Lisans
-Bu proje **⚠️ lisans türü** ile lisanslanmıştır. (Örn. MIT)
