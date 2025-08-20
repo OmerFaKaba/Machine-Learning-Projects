@@ -81,9 +81,6 @@ Some of the graphs used in EDA:
 - Hyperparameter tuning for better accuracy
 - Deploy the model as a web app
 
----
 
-## 🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 
